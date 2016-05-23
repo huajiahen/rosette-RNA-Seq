@@ -1,0 +1,21 @@
+Term	Enrichment	Bonferroni
+neuron differentiation	3.1587795765877957	7.167834922605643E-6
+neuron development	3.1743094663448645	5.250253089155166E-4
+positive regulation of nitrogen compound metabolic process	2.4467461885940147	5.886478941362627E-4
+positive regulation of cellular biosynthetic process	2.3564034505640348	0.0010969818188136804
+positive regulation of biosynthetic process	2.3224983649444084	0.001621648486848093
+positive regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	2.4019886363636367	0.0019495758151026887
+positive regulation of transcription	2.4530947775628626	0.003531333573201123
+cell projection morphogenesis	3.451020408163265	0.003670924010021004
+axonogenesis	3.783443240697127	0.006225998576168346
+neuron projection morphogenesis	3.6086214255228337	0.006402503646691371
+positive regulation of gene expression	2.38131747770302	0.006881694263425997
+neuron projection development	3.3027343749999996	0.00738102977234667
+cell part morphogenesis	3.3027343749999996	0.00738102977234667
+cellular component morphogenesis	2.7105564460728186	0.011009773237304343
+cell morphogenesis involved in differentiation	3.307656482861401	0.012785966129063242
+blood vessel development	3.2941558441558443	0.013590309512298004
+positive regulation of macromolecule biosynthetic process	2.233041423408396	0.015105920865057798
+positive regulation of transcription, DNA-dependent	2.497665332570993	0.015549360826343839
+positive regulation of RNA metabolic process	2.4768947268947272	0.018351396653661478
+cell morphogenesis involved in neuron differentiation	3.493801652892562	0.018977766377523242

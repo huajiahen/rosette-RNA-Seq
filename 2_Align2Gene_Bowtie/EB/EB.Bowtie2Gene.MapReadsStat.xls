@@ -1,0 +1,13 @@
+Mapping Type	Reads Number	Percentage
+Total Reads	32642661	100.00%
+Total BasePairs	1632133050	100.00%
+
+Total Mapped Reads	16325876	50.01%
+
+Perfect Match	11121542	34.07%
+Mismatch	5204334	15.94%
+
+Unique Match	13758970	42.15%
+Multi-position Match	2566906	7.86%
+
+Total Unmapped Reads	16316784	49.99%

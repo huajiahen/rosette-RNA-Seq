@@ -1,0 +1,9 @@
+Item                                    	Counts(fq1)	Percentage
+Total filtered reads (%)                	15328 	100.00%
+Reads with adapter (%)                  	15133 	 98.73%
+Reads with low quality (%)               	0     	  0.00%
+Reads with low mean quality (%)         	0     	  0.00%
+Reads with duplications (%)             	0     	  0.00%
+Read with n rate exceed: (%)            	195   	  1.27%
+Read with small insert size: (%)        	0     	  0.00%
+Reads with PolyA (%)                    	0     	  0.00%

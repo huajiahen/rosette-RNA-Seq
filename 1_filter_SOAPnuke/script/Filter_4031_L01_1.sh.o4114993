@@ -1,0 +1,11 @@
+==========start at : Tue Dec 22 15:51:08 CST 2015 ==========
+
+2015-12-22 15:51:08 INFO  - [processParams] [407] Log Init Success
+2015-12-22 15:51:08 INFO  - [processParams] [434] fq1 read length: 50
+2015-12-22 16:09:51 INFO  - [filter] [983] delete params
+2015-12-22 16:09:52 INFO  - [filter] [1008] PreProcess Finish
+fqcheck_distribute:
+input:	/lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/1_Filter_SOAPnuke/4031_L01_1/fqcheck/4031_L01_1.fqcheck
+output:	/lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/1_Filter_SOAPnuke/4031_L01_1/fqcheck/4031_L01_1.base.png
+output:	/lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/1_Filter_SOAPnuke/4031_L01_1/fqcheck/4031_L01_1.qual.png
+==========end at : Tue Dec 22 16:13:54 CST 2015 ==========

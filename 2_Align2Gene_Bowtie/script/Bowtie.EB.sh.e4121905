@@ -1,0 +1,7 @@
+[samopen] SAM header is present: 41386 sequences.
+32642661 reads; of these:
+  32642661 (100.00%) were unpaired; of these:
+    16316784 (49.99%) aligned 0 times
+    8170728 (25.03%) aligned exactly 1 time
+    8155149 (24.98%) aligned >1 times
+50.01% overall alignment rate

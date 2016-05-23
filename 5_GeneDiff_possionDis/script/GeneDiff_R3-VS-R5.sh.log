@@ -1,0 +1,9 @@
+Loading required package: methods
+Warning message:
+package 'ggplot2' was built under R version 3.1.2 
+[2015-12-29 16:12:27] read file /ifs4/BC_RD/USER/linruichai/RNAseq3.1_test/result.SE/prepareFiles/human.desc.xls
+[2015-12-29 16:12:29] read file /lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/5_GeneDiff_possionDis/R3-VS-R5/R3-VS-R5.GeneDiffExp.xls
+[2015-12-29 16:12:29] done
+[2015-12-29 16:12:29] read file /ifs4/BC_RD/USER/linruichai/RNAseq3.1_test/result.SE/prepareFiles/human.desc.xls
+[2015-12-29 16:12:30] read file /lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/5_GeneDiff_possionDis/R3-VS-R5/R3-VS-R5.GeneDiffExpFilter.xls
+[2015-12-29 16:12:30] done

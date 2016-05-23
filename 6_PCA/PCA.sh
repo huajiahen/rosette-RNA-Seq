@@ -1,0 +1,3 @@
+echo ==========start at : `date` ==========
+perl /ifs4/BC_RD/USER/linruichai/RNA_module/PCA/PCA_R/bin/PCA_deal.pl /lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/3_GeneExpression/a.list -IDcolumn 1 -Exprcolumn 5 -outdir /lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/6_PCA
+perl /ifs4/BC_RD/USER/linruichai/RNA_module/PCA/PCA_R/bin/princomp_draw.pl -expr /lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/6_PCA/PCA.exp.xls -o /lfs1/ST_PMO2015G/STN11023/project/single_cell/Bulk_analysis/Expression/6_PCAecho ==========finish at : `date` ==========
